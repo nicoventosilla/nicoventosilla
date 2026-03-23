@@ -40,8 +40,8 @@ I am a **Software Engineering student** based in Lima, Peru, with a strong backg
 ### 🏆 Certifications
 
 <div align="left">
-  <a href="https://www.credly.com/badges/091cf997-4543-456c-a789-3f74853fdfbb/public_url" target="_blank"><img src="https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS Cloud Practitioner" height="35"/></a>
-  <a href="https://www.credly.com/badges/de8a4c78-690a-4bf7-bda0-3416573fa541/public_url" target="_blank"><img src="https://img.shields.io/badge/AWS-Certified_AI_Practitioner-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS AI Practitioner" height="35"/></a>
+  <a target="_blank"><img src="https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS Cloud Practitioner" height="35"/></a>
+  <a target="_blank"><img src="https://img.shields.io/badge/AWS-Certified_AI_Practitioner-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS AI Practitioner" height="35"/></a>
 </div>
 
 <br/>
